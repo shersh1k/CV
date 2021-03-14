@@ -48,7 +48,7 @@ Started programming in 2015. 3 year of web development experience. 1 year mainly
       - Code refactoring  
       - Backend support (C#, ASPX)  
       
-    2) **ChildrenPortal** _(SPA to display statistical information about children, 04.2019-05.2019)_:  
+    2) **ChildrenPortal** _(SPA to display statistical information about children, 01.2019-02.2019)_:  
       - Development charts and polls (Vue, jsCharts, canvas, Figma, element-ui)  
       - Search and discussion of valid solutions at meetings  
       - Code refactoring  
