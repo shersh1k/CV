@@ -1,9 +1,11 @@
 # Sharshneu Andrei
 
 _+375296246018_ MTS (preferred phone number)
+
 _+375445258542_ A1
 
 _shershnev942@gmail.com_ (preferred email)
+
 _shershnev-andrey@mail.ru_
 
 [Telegram](https://t.me/anshersh)
