@@ -68,6 +68,9 @@ Started programming in 2015. 4 year of web development experience. 3 year mainly
 
 # Pet project
   chrome extension currencys calculator _(typescript, react, redux, mui)_ 
+  
+  https://chrome.google.com/webstore/detail/currency-calculator/pbhlpimiabffgiljfnopihjknkoemifb
+  
   https://github.com/shersh1k/chrome-extension-currency-calculator
 
 # Education
